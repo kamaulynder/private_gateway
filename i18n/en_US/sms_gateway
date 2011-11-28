@@ -1,6 +1,0 @@
-<?php
-$lang = array
-(
-	'option_3' => 'Option 3: Use a Third Party SMS Gateway',
-	
-);
